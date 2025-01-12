@@ -1,3 +1,3 @@
 # Hosted on Following link
 
-https://fascinating-tanuki-0fc9c8.netlify.app/
+https://ai-image-generator-og.netlify.app/
